@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p { color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 16px;
+    line-height: 18px;
+    width: 700px;
+    background-color: orange;
+    padding: 20px;
+}
+.novi_blok {
+	background-color: seagreen;
+	padding: 20px;
+	margin: 20px;
+	width: 740px;
+
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+}
+
+
+.pozadina {
+	background-image: url("slikee/gl4.jpg") ;
+}
+
+a:link {
+	color: black;
+	background-color: white;
+	padding: 10px;
+	line-height: 50px;
+	border: 2px solid #000000;
+}
+a:hover {
+	background-color: orange;
+}
+img {
+	height: 500px  ;
+	width: 400px   ;
+} 
